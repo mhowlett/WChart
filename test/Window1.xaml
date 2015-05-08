@@ -1,0 +1,32 @@
+﻿<Window x:Class="WChartTest.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:local="clr-namespace:WChartTest" 
+    Title="WPlotTest" Height="450" Width="1100" >
+    <Grid>
+		<TabControl>
+			<TabItem Header="Linear 10-30">
+				<local:LinearAxis_VisualTest_10_30 />
+			</TabItem>
+			<TabItem Header="Linear 31-50">
+				<local:LinearAxis_VisualTest_31_50 />
+			</TabItem>
+			<TabItem Header="Linear 51-70">
+				<local:LinearAxis_VisualTest_51_70 />
+			</TabItem>
+			<TabItem Header="Linear 71-90">
+				<local:LinearAxis_VisualTest_71_90 />
+			</TabItem>
+			<TabItem Header="Linear 91-110">
+				<local:LinearAxis_VisualTest_91_110 />
+			</TabItem>
+			<TabItem Header="Linear Epsilon">
+				<local:LinearAxis_VisualTest_Epsilon />
+			</TabItem>
+			<TabItem Header="DateTime 1">
+				<local:DateTimeAxis_VisualTest_1 />
+			</TabItem>
+		</TabControl>
+		
+    </Grid>
+</Window>
