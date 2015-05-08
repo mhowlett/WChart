@@ -5,8 +5,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1A9EBD9E-829F-4699-963C-FB43D6BC7252}</ProjectGuid>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <RootNamespace>WPlot</RootNamespace>
-    <AssemblyName>WPlot</AssemblyName>
+    <RootNamespace>WChart</RootNamespace>
+    <AssemblyName>WChart</AssemblyName>
     <WarningLevel>4</WarningLevel>
     <OutputType>library</OutputType>
     <ApplicationVersion>1.0.0.*</ApplicationVersion>

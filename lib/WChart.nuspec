@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WChart</id>
+    <version>0.3</version>
+    <title>WChart</title>
+    <authors>Matt Howlett</authors>
+    <owners>math</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WPF Charting library</description>
+    <releaseNotes>First Release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Chart Graph WPF</tags>
+  </metadata>
+</package>

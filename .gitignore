@@ -1,1 +1,7 @@
 packages
+lib/bin
+lib/obj
+test/bin
+test/obj
+.vs
+lib/*.nupkg

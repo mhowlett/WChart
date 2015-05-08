@@ -9,12 +9,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WPlot")]
+[assembly: AssemblyTitle("WChart")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Matthew Howlett")]
-[assembly: AssemblyProduct("WPlot")]
-[assembly: AssemblyCopyright("Matthew Howlett 2007")]
+[assembly: AssemblyProduct("WChart")]
+[assembly: AssemblyCopyright("Matthew Howlett 2007-2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
